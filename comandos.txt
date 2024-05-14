@@ -1,0 +1,6 @@
+comandos do Github
+git init
+git config --global user.name "nome"
+git config --global user.email "email"
+git add
+git commit -m "texto"
